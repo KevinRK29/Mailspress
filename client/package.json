@@ -3,7 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "css": "^2.2.4",
     "http-proxy-middleware": "^0.19.1",
+    "materialize": "^1.0.0",
+    "materialize-css": "^1.0.0",
     "react": "^16.8.2",
     "react-dom": "^16.8.2",
     "react-redux": "^6.0.1",
