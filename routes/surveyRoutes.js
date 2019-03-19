@@ -12,7 +12,7 @@ module.exports = app => {
       title, //title: title reduced to title due to ES6
       subject,
       body,
-      recipients: recipients.split(",").map(email => ({ email: email.trim() })), //  => {return {email: email}) condensed
+      recipients: recipients.split(",").map(email => ({ email: email.trim() })),
       _user: req.user.id,
       dateSent: Date.now()
     });
