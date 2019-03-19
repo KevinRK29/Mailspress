@@ -8,6 +8,8 @@ class Mailer extends helper.Mail {
 
     this.from_email = new helper.Email("no-reply@mailspress.com");
     this.subject = subject;
+    this.body = new helper.Content("text/html", content);
+    this.recipients = this.formatAdresses(recipients);
   }
 }
 
