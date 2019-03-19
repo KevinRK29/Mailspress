@@ -11,8 +11,10 @@ A web application that sends emails to a large list of recipients for collecting
 
 # Functions
 
-- Can purchase credits with real money
-- Can send surveys to a large list of recipients
+- Purchase credits with real money
+- Create custom survey in exchange for credits
+- Send personalized survey to a large list of recipients
+- Receive feedback/response from recipients who took part in the survey
 
 # Means
 
