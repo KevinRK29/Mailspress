@@ -2,11 +2,12 @@
 
 A web application that sends emails to a large list of recipients for collecting feedback for companies
 
-Also learning to commit more regularly instead of uploading the whole code at the end
 
 # Objective
 
-To learn the current modern technologies and create a full stack application implementing them to create a web application
+- To learn the current modern technologies and create a full stack application implementing them to create a web application
+- To learn to commit more regularly instead of uploading the entire finished code at once 
+- To familiarize myself more with Git and the command line
 
 # Functions
 
