@@ -2,6 +2,8 @@
 
 A web application that sends emails to a large list of recipients for collecting feedback for companies
 
+Project on hold temporarily until exams are over
+
 
 ## Objective
 
