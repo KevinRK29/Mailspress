@@ -1,7 +1,7 @@
 
 # Mailspress
 
-A web application that sends emails to a large list of recipients for collecting feedback for companies
+A web application that sends emails to a large list of recipients to collect feedback for companies
 
 
 ## Objective
